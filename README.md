@@ -96,9 +96,7 @@ To preserve statistical power and generalization, I specified the primary ANCOVA
 ## 📂 Repository Structure
 
 ```text
-├── data/
-│   └── WA_Marketing-Campaign.csv     # Raw dataset from Kaggle
-├── notebooks/
-│   └── ab_testing_promotions.ipynb   # Complete Analysis Notebook
+│── WA_Marketing-Campaign.csv         # Raw dataset from Kaggle
+├── ab_testing_promotions.ipynb       # Complete Analysis Notebook
 ├── README.md                         # Project documentation
-└── requirements.txt                  # Python dependencies
+
